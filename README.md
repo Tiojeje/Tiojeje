@@ -3,7 +3,7 @@
 <h1 align="center">Hey! I'm Jean Oliveira</h1>
 
 ## About me
-My name is Jean, i'm 27. My first contact with programming language  was in 2015, I did a technologist in web developer, but, I stopped.
+My name is Jean, I'm 27. My first contact with programming language  was in 2015, I did a technologist in web developer, but, I stopped.
 Now, I'm back! I started a technologist in system analysis for remember and learn new technologies. Let's go!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
