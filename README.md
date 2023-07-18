@@ -3,8 +3,8 @@
 <h1 align="center">Hey! I'm Jean Oliveira</h1>
 
 ## About me
-My name is Jean, i'm 27. My first contact with programming language  was in 2015, i did a technologist in web developer, but, i stopped.
-Now, i'm back! I started a technologist in system analysis for remember and learn new technologies. Let's go!
+My name is Jean, i'm 27. My first contact with programming language  was in 2015, I did a technologist in web developer, but, I stopped.
+Now, I'm back! I started a technologist in system analysis for remember and learn new technologies. Let's go!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tiojeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiojeje" height="30" width="40" /></a>
